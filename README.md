@@ -1,23 +1,3 @@
-# Git Repository Files
-
-## 1. Repository Description (for GitHub/GitLab)
-
-```
-Automated Performance Benchmarking Suite for Infrastructure Migration Assessment
-
-Production-ready bash toolkit for comparing bare-metal vs VPS performance with comprehensive metrics (CPU, RAM, Disk I/O, Network). Generates technical reports and executive summaries with migration recommendations based on objective benchmarks.
-```
-
-**Tags/Topics:**
-```
-performance-testing, benchmarking, infrastructure, devops, migration-tools, 
-vps-comparison, bare-metal, linux, bash, automation, stress-testing, 
-system-monitoring, infrastructure-assessment
-```
-
----
-
-## 2. README.md
 
 ```markdown
 # Server Performance Benchmarking Suite
